@@ -7,6 +7,8 @@ public class JenkinsSampleProject {
 		System.out.println("Test");
 		System.out.println("Testing");
 		System.out.println("Tester");
+				System.out.println("Validating the jenkins job"); //newly added
+
 
 	}
 
